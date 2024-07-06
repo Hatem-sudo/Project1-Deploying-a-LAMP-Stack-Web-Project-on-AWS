@@ -1,9 +1,14 @@
 # Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS
 ## WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS 
+### Tools
+1.Linux
+2.AWS
+3.Apache
+4.PHP
+5.MySQL
+
 ### AWS account setup and provisioning an Ubuntu Server
-
 #### Step-1
-
 
 1. Launched an EC2 instance
 2. I selelected the Ubuntu free tier instance
@@ -18,7 +23,6 @@
 
 #### Step-2
 
-
 1. Install Apache using Ubuntu’s package manager :
 2. To run apache2 package installation:
 3. Next, verify that Apache2 is running as a service in the OS. run:
@@ -32,13 +36,9 @@
    
 ![5 apache systemcal](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/11450fb6-907d-48f5-95e1-41bf16fed9ef)
 
-
-
 ### INSTALLING MYSQL
 
 #### Step-3
-
-
 
 In this step, I install a Database Management System (DBMS) to be able to store and manage data for the site in a relational database.
 1. Confirm intallation.
@@ -53,7 +53,6 @@ In this step, I install a Database Management System (DBMS) to be able to store 
 
 #### Steps
 
-
 1. install these 3 packages php libapache2-mod-php php-mysql.
 2. LAMP stack is completely installed and fully operational.
 ![7 mysql](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/1caf3827-133d-4205-ad48-60ea91367c03)
@@ -61,8 +60,6 @@ In this step, I install a Database Management System (DBMS) to be able to store 
 ### STEP 5 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
 
 #### Steps
-
-
 
 1. Setting up a domain called projectlamp.
 2. assign ownership of the directory with your current system user.
@@ -74,6 +71,7 @@ In this step, I install a Database Management System (DBMS) to be able to store 
 5. Enable the new virtual host.
 6. Disable the default website that comes installed with Apache.
 7. Finally, reload Apache so these changes take effect: **sudo systemctl reload apache2**
+   
   ![11 12 13](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/3504193b-47d8-44ba-b4d4-83e8373d14dc)
 
 #### Congratulition The website is active ..
