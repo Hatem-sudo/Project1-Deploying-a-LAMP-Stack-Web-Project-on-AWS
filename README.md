@@ -1,7 +1,8 @@
 # Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS
 ## WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS 
 ### AWS account setup and provisioning an Ubuntu Server
-#### Steps
+
+#### Step-1
 
 
 1. Launched an EC2 instance
@@ -15,7 +16,7 @@
 
 ### INSTALLING APACHE AND UPDATING THE FIREWALL
 
-#### Steps
+#### Step-2
 
 
 1. Install Apache using Ubuntu’s package manager :
@@ -35,7 +36,7 @@
 
 ### INSTALLING MYSQL
 
-#### Steps
+#### Step-3
 
 
 
@@ -48,7 +49,7 @@ In this step, I install a Database Management System (DBMS) to be able to store 
 ![6 install mysql](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/74253c5b-b54f-4069-ad69-b750363aac4e)
 6. Type exit and enter to exit console.
 
-### STEP 3 — INSTALLING PHP
+### STEP 4 — INSTALLING PHP
 
 #### Steps
 
@@ -57,7 +58,7 @@ In this step, I install a Database Management System (DBMS) to be able to store 
 2. LAMP stack is completely installed and fully operational.
 ![7 mysql](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/1caf3827-133d-4205-ad48-60ea91367c03)
 
-### STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
+### STEP 5 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
 
 #### Steps
 
