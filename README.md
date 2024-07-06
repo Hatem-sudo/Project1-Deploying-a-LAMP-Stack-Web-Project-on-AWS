@@ -7,11 +7,11 @@
 1. Launched an EC2 instance
 2. I selelected the Ubuntu free tier instance
 3. I set the required configurations (Enabled public IP, security group, and key pair) and finally launched the instance.
-![project1pix3](https://user-images.githubusercontent.com/74002629/174606543-32845537-efdd-4abe-a903-82a20f3bbb80.PNG)
+![1](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/360f6b38-63da-4d02-aea4-ae4589aa61c5)
 
 4. Next I SSH into the instance using Windows Terminal
 
-![project1pix5](https://user-images.githubusercontent.com/74002629/174608722-755ce47c-4c8e-475c-a399-43e314235364.PNG)
+![3](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/9f24cb80-e730-4ab1-8a94-0168295da8f0
 
 ### INSTALLING APACHE AND UPDATING THE FIREWALL
 
@@ -23,7 +23,7 @@
 3. Next, verify that Apache2 is running as a service in the OS. run:
 4. The green light indicates Apache2 is running.
    
-![1](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/360f6b38-63da-4d02-aea4-ae4589aa61c5)
+![4 install apache](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/1674c322-7351-44ac-9ebd-4ed01eb8d9f5)
 
 6. Open port 80 on the Ubuntu instance to allow access from the internet.
 7. Access the Apache2 service locally in our Ubuntu shell.
