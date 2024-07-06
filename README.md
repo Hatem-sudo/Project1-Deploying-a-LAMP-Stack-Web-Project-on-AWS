@@ -11,7 +11,7 @@
 
 4. Next I SSH into the instance using Windows Terminal
 
-![3](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/9f24cb80-e730-4ab1-8a94-0168295da8f0
+![2](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/2fb93a5e-f3b0-4cc2-8156-e161438ea47f)
 
 ### INSTALLING APACHE AND UPDATING THE FIREWALL
 
