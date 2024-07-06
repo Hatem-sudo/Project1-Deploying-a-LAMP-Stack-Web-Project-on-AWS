@@ -29,9 +29,7 @@
 7. Access the Apache2 service locally in our Ubuntu shell.
 8. Next, test that Apache HTTP server can respond to requests from the Internet. Open a browser and type the public IP of the Ubutun instance: **http://3.235.248.184/:80** This outputs the Apache2 default page.
    
-![2](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/5fc5af2c-4b59-472a-8b47-916b151a2e44)
-
-![3](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/0bcad80d-1c3c-4352-9346-1dfe5ae712d3)
+![5 apache systemcal](https://github.com/Hatem-sudo/Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS/assets/113099054/11450fb6-907d-48f5-95e1-41bf16fed9ef)
 
 
 
