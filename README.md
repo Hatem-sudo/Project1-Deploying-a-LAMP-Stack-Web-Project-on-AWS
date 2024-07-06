@@ -1,11 +1,11 @@
 # Project1-Deploying-a-LAMP-Stack-Web-Project-on-AWS
 ## WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS 
 ### Tools
-1.Linux
-2.AWS
-3.Apache
-4.PHP
-5.MySQL
+1. Linux
+2. AWS
+3. MySQL
+4. PHP
+5. Apache
 
 ### AWS account setup and provisioning an Ubuntu Server
 #### Step-1
